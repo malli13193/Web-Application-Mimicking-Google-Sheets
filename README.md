@@ -16,7 +16,7 @@ A responsive web application that mimics the basic functionality of Google Sheet
 - **Testing**: Simple ways to test the functionality using sample data.
 
 ## Demo
-Check out the live demo here.
+Check out the live demo here. https://malli13193.github.io/Web-Application-Mimicking-Google-Sheets/
 
 ## How to Use
 1. Open the web application in your browser.
